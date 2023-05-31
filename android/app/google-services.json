@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573969006626",
+    "project_id": "pnotes-rebon",
+    "storage_bucket": "pnotes-rebon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573969006626:android:bde7c06c26074f6bd98a7b",
+        "android_client_info": {
+          "package_name": "live.yadavrohit.pnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8FdloSk7ix8ZBG8-epytq59Y2ExgOkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
